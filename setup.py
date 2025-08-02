@@ -24,7 +24,7 @@ setup(
         'scipy>=1.4.1',
         'h5py>=2.10.0',
         'PyQt5',
-        'pyqtgraph'
+        'pyqtgraph<=0.13.1'
     ],
     include_package_data=True,
     keywords='xray python giwaxs scientific-analysis',
