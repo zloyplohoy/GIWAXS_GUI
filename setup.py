@@ -17,7 +17,7 @@ setup(
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
     license='GPLv3',
-    python_requires='>=3.6.*',
+    python_requires='>=3.6',
     install_requires=[
         'numpy>=1.18.1',
         'opencv-python>=4',
